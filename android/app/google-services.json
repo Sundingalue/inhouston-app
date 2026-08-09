@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "670626624001",
+    "project_id": "inhouston-209c0",
+    "storage_bucket": "inhouston-209c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670626624001:android:2a2fa88a45ada696154600",
+        "android_client_info": {
+          "package_name": "com.inhouston.servicios"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqP3HGDfU3EHCK3PfN6Ac-5wMItcxYxkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

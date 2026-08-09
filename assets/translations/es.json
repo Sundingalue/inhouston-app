@@ -1,0 +1,13 @@
+{
+    "email": "Correo",
+    "password": "Contraseña",
+    "login": "Acceder",
+    "signup_question": "¿No tienes una cuenta?",
+    "signup": "Registrarse",
+    "forgot_password": "¿Has olvidado tu clave?",
+    "fill_all_fields": "Complete todos los campos",
+    "invalid_email": "Correo invalido",
+    "error": "Error",
+    "ok": "Ok",
+    "back": "Atrás"
+}

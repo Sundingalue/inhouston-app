@@ -1,0 +1,13 @@
+{
+    "email": "Email",
+    "password": "Password",
+    "login": "Login",
+    "signup_question": "Don't have an account?",
+    "signup": "Sign up",
+    "forgot_password": "Forgot your password?",
+    "fill_all_fields": "Fill in all fields",
+    "invalid_email": "Invalid email",
+    "error": "Error",
+    "ok": "Ok",
+    "back": "Back"
+}

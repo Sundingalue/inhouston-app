@@ -1,0 +1,85 @@
+name: inhouston_nuevo
+description: "Aplicación oficial de IN Houston Texas: directorio, ofertas y más."
+publish_to: 'none'
+
+version: 1.0.0+2
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_web_auth_2: ^3.0.1
+
+  # Redes y almacenamiento local
+  http: ^1.5.0
+  shared_preferences: ^2.2.2
+  scrollable_positioned_list: ^0.3.8
+
+  # Íconos y tipografías
+  cupertino_icons: ^1.0.2
+  google_fonts: ^4.0.0
+  google_nav_bar: ^5.0.6
+  lucide_icons: ^0.257.0
+
+  # Firebase
+  firebase_core: ^3.3.0
+  cloud_firestore: ^5.2.1
+  firebase_auth: ^5.2.0
+  firebase_storage: ^12.4.5
+  firebase_messaging: ^15.2.5
+
+  # Facebook Login
+  flutter_facebook_auth: ^6.1.1
+
+  # Funcionalidades
+  animate_do: ^4.2.0
+  image_picker: ^1.0.4
+  url_launcher: ^6.3.2
+  flutter_linkify: ^6.0.0
+  mailer: ^6.0.1
+  intl_phone_field: ^3.2.0
+  local_auth: ^2.1.6
+  google_sign_in: ^6.1.0
+  photo_view: ^0.14.0
+  easy_localization: ^3.0.1
+  flutter_local_notifications: ^18.0.1
+  timezone: ^0.9.2
+
+  # ✅ uni_links desde carpeta local
+  uni_links:
+    path: packages/uni_links
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  flutter_launcher_icons: ^0.14.3
+  flutter_native_splash: ^2.4.0
+  video_player: ^2.7.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/icon/
+    - assets/translations/
+    - assets/logo_in.png
+    - assets/evento1.jpg
+    - assets/evento2.jpg
+    - assets/ofertas_1.png
+    - assets/icon/face_id.png
+    - assets/google_logo.png
+    - assets/logo_animado.gif
+    - assets/fondo_chat_in_houston.jpg
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  remove_alpha_ios: true
+  image_path: "assets/icon/icon.png"
+
+flutter_native_splash:
+  color: "#F7BD02"
