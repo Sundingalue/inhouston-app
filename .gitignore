@@ -44,6 +44,10 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 
+# Dependencies (regenerated with npm install)
+node_modules/
+**/node_modules/
+
 # Secrets and signing credentials - NEVER commit these
 *.p8
 *.mobileprovision
