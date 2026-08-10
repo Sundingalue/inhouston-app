@@ -18,7 +18,7 @@ class _InstagramScreenState extends State<InstagramScreen> {
   String? userId; // 🔹 Guardaremos aquí el user_id de Instagram
 
   final String baseUrl =
-      "https://multi-bot-inteligente-v1.onrender.com/api/instagram_bot";
+            "https://multi-bot-inteligente-v1-production.up.railway.app/api/instagram_bot";
 
   @override
   void initState() {
