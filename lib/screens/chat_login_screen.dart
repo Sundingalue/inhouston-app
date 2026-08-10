@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:http/http.dart' as http;
 
-const String kApiBase = 'https://multi-bot-inteligente-v1.onrender.com/api/mobile';
+const String kApiBase = 'https://multi-bot-inteligente-v1-production.up.railway.app/api/mobile';
 
 class ChatLoginScreen extends StatefulWidget {
   final VoidCallback? afterLogin; // callback al completar login del Chat
