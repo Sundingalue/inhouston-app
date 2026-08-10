@@ -16,7 +16,7 @@ class ClientPanelScreen extends StatefulWidget {
 
 class _ClientPanelScreenState extends State<ClientPanelScreen> {
   static const String kApiBase =
-      'https://multi-bot-inteligente-v1.onrender.com/api/mobile';
+            'https://multi-bot-inteligente-v1-production.up.railway.app/api/mobile';
 
   bool _loading = true;
   String? _error;
