@@ -20,8 +20,8 @@ class _ChatScreenState extends State<ChatScreen> with WidgetsBindingObserver {
   static const Color ink = Color(0xFF0B0B0B);
 
   // API
-  static const String kMobileBase = 'https://multi-bot-inteligente-v1.onrender.com/api/mobile';
-  static const String kCoreBase   = 'https://multi-bot-inteligente-v1.onrender.com/api';
+    static const String kMobileBase = 'https://multi-bot-inteligente-v1-production.up.railway.app/api/mobile';
+    static const String kCoreBase   = 'https://multi-bot-inteligente-v1-production.up.railway.app/api';
 
   // Args
   late final String numero;
