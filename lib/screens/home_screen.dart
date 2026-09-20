@@ -1,22 +1,22 @@
 // 🔽 IMPORTACIONES
 import 'package:flutter/material.dart';
-import 'package:inhouston_nuevo/widgets/search.dart';
-import 'package:inhouston_nuevo/screens/profile_scree.dart';
-import 'package:inhouston_nuevo/screens/detail_screen.dart';
+import 'package:inhouston_app/widgets/search.dart';
+import 'package:inhouston_app/screens/profile_scree.dart';
+import 'package:inhouston_app/screens/detail_screen.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:animate_do/animate_do.dart';
-import 'package:inhouston_nuevo/screens/categorias_screen.dart';
-import 'package:inhouston_nuevo/screens/contact_screen.dart';
-import 'package:inhouston_nuevo/screens/ofertas_screen.dart';
-import 'package:inhouston_nuevo/screens/revistas_screen.dart';
-import 'package:inhouston_nuevo/screens/avisos_screen.dart';
+import 'package:inhouston_app/screens/categorias_screen.dart';
+import 'package:inhouston_app/screens/contact_screen.dart';
+import 'package:inhouston_app/screens/ofertas_screen.dart';
+import 'package:inhouston_app/screens/revistas_screen.dart';
+import 'package:inhouston_app/screens/avisos_screen.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:url_launcher/url_launcher.dart'; // (se mantiene por si luego lo usamos para links externos)
 import '../screens/Api/auth.dart';
 
 // ⬇️ IMPORTAMOS LA NUEVA PANTALLA DE INSTAGRAM
-import 'package:inhouston_nuevo/screens/instagram_screen.dart';
+import 'package:inhouston_app/screens/instagram_screen.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});

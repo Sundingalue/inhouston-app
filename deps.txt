@@ -1,6 +1,6 @@
 Dart SDK 3.7.2
 Flutter SDK 3.29.3
-inhouston_nuevo 1.0.0+2
+inhouston_app 1.0.0+2
 ├── animate_do 4.2.0
 │   └── flutter...
 ├── cloud_firestore 5.4.0

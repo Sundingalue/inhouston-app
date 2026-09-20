@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:inhouston_nuevo/widgets/utils.dart';
+import 'package:inhouston_app/widgets/utils.dart';
 import 'package:url_launcher/url_launcher.dart';
 import 'package:animate_do/animate_do.dart';
 

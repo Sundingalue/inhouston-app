@@ -11,18 +11,18 @@
       "flutterMode": "debug"
     },
     {
-      "name": "inhouston_nuevo",
+      "name": "In Houston App",
       "request": "launch",
       "type": "dart"
     },
     {
-      "name": "inhouston_nuevo (profile mode)",
+      "name": "In Houston App (profile mode)",
       "request": "launch",
       "type": "dart",
       "flutterMode": "profile"
     },
     {
-      "name": "inhouston_nuevo (release mode)",
+      "name": "In Houston App (release mode)",
       "request": "launch",
       "type": "dart",
       "flutterMode": "release"

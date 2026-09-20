@@ -6,7 +6,7 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_messaging/firebase_messaging.dart';
-import 'package:inhouston_nuevo/widgets/circle_transition.dart';
+import 'package:inhouston_app/widgets/circle_transition.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 import '../../widgets/utils.dart';

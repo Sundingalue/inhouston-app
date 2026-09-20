@@ -1,5 +1,5 @@
-name: inhouston_nuevo
-description: "Aplicación oficial de IN Houston Texas: directorio, ofertas y más."
+name: inhouston_app
+description: "Aplicación oficial de In Houston, Texas."
 publish_to: 'none'
 
 version: 1.0.0+2

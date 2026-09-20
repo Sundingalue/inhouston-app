@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:inhouston_nuevo/screens/api/auth.dart';
-import 'package:inhouston_nuevo/screens/agregar_aviso_screen.dart';
-import 'package:inhouston_nuevo/screens/empresas_por_categoria_screen.dart';
+import 'package:inhouston_app/screens/api/auth.dart';
+import 'package:inhouston_app/screens/agregar_aviso_screen.dart';
+import 'package:inhouston_app/screens/empresas_por_categoria_screen.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:animate_do/animate_do.dart';
 

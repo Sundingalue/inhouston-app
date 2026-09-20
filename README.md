@@ -1,16 +1,14 @@
-# inhouston_nuevo
+# In Houston, Texas
 
-A new Flutter project.
+Aplicación móvil oficial de IN Houston Texas para iOS y Android.
 
-## Getting Started
+## Identidad técnica
 
-This project is a starting point for a Flutter application.
+- Nombre del proyecto Flutter: `inhouston_app`
+- Nombre visible de la aplicación: `In Houston`
+- Nombre del sitio web: `In Houston, Texas`
+- Identificador publicado: `com.inhouston.servicios`
+- Backend móvil: Railway
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+El identificador publicado no debe cambiarse porque representa la aplicación
+existente en las tiendas y en Firebase.

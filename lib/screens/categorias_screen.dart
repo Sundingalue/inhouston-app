@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:inhouston_nuevo/screens/categorias.dart';
-import 'package:inhouston_nuevo/widgets/search.dart';
-import 'package:inhouston_nuevo/widgets/utils.dart';
+import 'package:inhouston_app/screens/categorias.dart';
+import 'package:inhouston_app/widgets/search.dart';
+import 'package:inhouston_app/widgets/utils.dart';
 import 'package:animate_do/animate_do.dart';
-import 'package:inhouston_nuevo/screens/navigator.sceen.dart';
+import 'package:inhouston_app/screens/navigator.sceen.dart';
 
 class CategoriasScreen extends StatefulWidget {
   const CategoriasScreen({super.key});

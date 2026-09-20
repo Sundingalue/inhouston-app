@@ -3,9 +3,9 @@ import 'package:flutter/material.dart';
 import 'package:video_player/video_player.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:inhouston_nuevo/screens/api/auth.dart';
-import 'package:inhouston_nuevo/screens/loginn_screen.dart';
-import 'package:inhouston_nuevo/screens/navigator.sceen.dart';
+import 'package:inhouston_app/screens/api/auth.dart';
+import 'package:inhouston_app/screens/loginn_screen.dart';
+import 'package:inhouston_app/screens/navigator.sceen.dart';
 import 'package:local_auth/local_auth.dart';
 
 class SplashScreen extends StatefulWidget {

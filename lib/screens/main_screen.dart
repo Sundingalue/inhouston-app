@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:inhouston_nuevo/screens/home_screen.dart';
-import 'package:inhouston_nuevo/screens/categorias_screen.dart';
-import 'package:inhouston_nuevo/screens/contact_screen.dart';
-import 'package:inhouston_nuevo/screens/profile_scree.dart';
+import 'package:inhouston_app/screens/home_screen.dart';
+import 'package:inhouston_app/screens/categorias_screen.dart';
+import 'package:inhouston_app/screens/contact_screen.dart';
+import 'package:inhouston_app/screens/profile_scree.dart';
 
 class MainScreen extends StatefulWidget {
   final int initialIndex;

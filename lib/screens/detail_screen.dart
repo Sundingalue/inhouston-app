@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart'; // ✅ Necesario para usar MethodChannel
-import 'package:inhouston_nuevo/screens/information_screen.dart';
-import 'package:inhouston_nuevo/widgets/utils.dart';
+import 'package:inhouston_app/screens/information_screen.dart';
+import 'package:inhouston_app/widgets/utils.dart';
 import 'package:url_launcher/url_launcher.dart';
 import 'package:animate_do/animate_do.dart';
 

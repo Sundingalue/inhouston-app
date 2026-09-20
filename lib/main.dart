@@ -181,7 +181,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       navigatorKey: navigatorKey,
       debugShowCheckedModeBanner: false,
-      title: 'In Houston Nuevo',
+      title: 'In Houston',
 
       useInheritedMediaQuery: true,
 

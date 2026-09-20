@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:inhouston_nuevo/screens/empresas_por_categoria_screen.dart';
+import 'package:inhouston_app/screens/empresas_por_categoria_screen.dart';
 import 'package:animate_do/animate_do.dart';
 
 class OfertasScreen extends StatefulWidget {

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:inhouston_nuevo/screens/detail_screen.dart';
-import 'package:inhouston_nuevo/widgets/utils.dart';
+import 'package:inhouston_app/screens/detail_screen.dart';
+import 'package:inhouston_app/widgets/utils.dart';
 import 'package:animate_do/animate_do.dart';
 
 class ResultScreen extends StatefulWidget {

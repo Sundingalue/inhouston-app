@@ -1,7 +1,7 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher.dart';
-import 'package:inhouston_nuevo/screens/descuento_screen.dart';
+import 'package:inhouston_app/screens/descuento_screen.dart';
 import 'package:animate_do/animate_do.dart';
 
 class EmpresasPorCategoriaScreen extends StatelessWidget {

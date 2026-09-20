@@ -8,10 +8,10 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_storage/firebase_storage.dart';
 import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
-import 'package:inhouston_nuevo/screens/Api/api.dart';
-import 'package:inhouston_nuevo/screens/Api/auth.dart';
-import 'package:inhouston_nuevo/screens/loginn_screen.dart';
-import 'package:inhouston_nuevo/widgets/utils.dart';
+import 'package:inhouston_app/screens/Api/api.dart';
+import 'package:inhouston_app/screens/Api/auth.dart';
+import 'package:inhouston_app/screens/loginn_screen.dart';
+import 'package:inhouston_app/widgets/utils.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 class ProfileScreen extends StatefulWidget {

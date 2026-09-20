@@ -1,14 +1,14 @@
 import 'package:flutter/material.dart';
-import 'package:inhouston_nuevo/screens/Api/auth.dart';
-import 'package:inhouston_nuevo/screens/contact_screen.dart';
-import 'package:inhouston_nuevo/screens/home_screen.dart';
-import 'package:inhouston_nuevo/screens/loginn_screen.dart';
-import 'package:inhouston_nuevo/screens/revistas_screen.dart';
-import 'package:inhouston_nuevo/screens/ofertas_screen.dart';
-import 'package:inhouston_nuevo/screens/eventos_screen.dart';
+import 'package:inhouston_app/screens/Api/auth.dart';
+import 'package:inhouston_app/screens/contact_screen.dart';
+import 'package:inhouston_app/screens/home_screen.dart';
+import 'package:inhouston_app/screens/loginn_screen.dart';
+import 'package:inhouston_app/screens/revistas_screen.dart';
+import 'package:inhouston_app/screens/ofertas_screen.dart';
+import 'package:inhouston_app/screens/eventos_screen.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:inhouston_nuevo/widgets/utils.dart' as utils;
+import 'package:inhouston_app/widgets/utils.dart' as utils;
 
 class BottomNavigatorScreen extends StatefulWidget {
   final int selectedIndex;
